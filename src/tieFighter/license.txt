@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tie Fighter
+* source:	https://sketchfab.com/3d-models/tie-fighter-722a39247ee84ed892bdc01e22bfbc36
+* author:	Cristianolop (https://sketchfab.com/Cristianolop)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tie Fighter" (https://sketchfab.com/3d-models/tie-fighter-722a39247ee84ed892bdc01e22bfbc36) by Cristianolop (https://sketchfab.com/Cristianolop) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

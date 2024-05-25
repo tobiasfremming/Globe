@@ -1,0 +1,21 @@
+{
+  "name": "globe",
+  "version": "0.0.0",
+  "scripts": {
+    "dev1": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "@types/dat.gui": "^0.7.7",
+    "@types/lodash.debounce": "^4.0.6",
+    "@types/three": "^0.130.1",
+    "typescript": "^4.3.2",
+    "vite": "^2.4.4",
+    "vite-plugin-string": "^0.0.2"
+  },
+  "dependencies": {
+    "lodash.debounce": "^4.0.8",
+    "three": "^0.130.1"
+  }
+}

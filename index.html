@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Vite App</title>
+
+    </head>
+
+    <style>
+        body {
+            overflow: hidden;
+            margin: 0px;
+        }
+
+        #locationData {
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            font-size: 14px;
+            font-family: monospace;
+            color: white;
+            pointer-events: none;
+            user-select: none;
+        }
+    </style>
+    
+    
+    <body>
+        <script>src ="three.min.js"</script>
+        <script> src="GLTFLoader.js"</script>
+        <script async src="./utils/es-module-shims.js"></script>
+
+        <!-- <a href="/view_source/globe.html" id="vwSrcLink" target="_blank">&lt;&gt;</a> -->
+        <div id="locationData"></div>
+        <!-- <canvas class="c" id="canvas1"></canvas> -->
+        <div id="debug1"></div>
+        <script type="module" src="/src/main.ts"></script>
+
+        <div style="color: red;">hei</div>
+    </body>
+
+    
+
+</html>
+
+
